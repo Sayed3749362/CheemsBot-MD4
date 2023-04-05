@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['9660540637980'] //ur owner number
-global.ownername = "ABDUL RAHMAN🐼🍷 ٫" //ur owner name
-global.ytname = "YT: ABDUL RAHMAN" //ur yt chanel name
+global.vcardowner = ['201200836711'] //ur owner number
+global.ownername = "BOT WICCA🐼🍷 ٫" //ur owner name
+global.ytname = "YT: BOT WICCA" //ur yt chanel name
 global.socialm = "GitHub: ABDUL RAHMAN" //ur github or insta name
 global.location = "Egypt, Cairo, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['9660540637980']
-global.ownertag = '9660540637980' //ur tag number
-global.botname = 'BOT ABDUL RAHMAN🐼🍷 ٫' //ur bot name
+global.owner = ['201200836711']
+global.ownertag = '201200836711' //ur tag number
+global.botname = 'BOT WICCA 🐼🍷 ٫' //ur bot name
 global.linkz = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //ur website to be displayed
 global.botscript = 'https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣عبدالرحمن⍣" //ur sticker watermark packname
-global.author = "⍣9660540637980⍣" //ur sticker watermark author
+global.packname = "⍣ويكا ينقم⍣" //ur sticker watermark packname
+global.author = "⍣201200836711⍣" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,25 +79,25 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['9660540637980'] //ur premium numbers
-global.ntilinkytvid = []
-global.ntilinkytch = []
-global.ntilinkig = []
-global.ntilinkfb = []
-global.ntilinktg = []
-global.ntilinktt = []
-global.ntilinktwt = []
-global.ntilinkall = []
-global.nticall = []
-global.ntwame = []
-global.nttoxic = []
-global.ntnsfw = []
-global.ntvirtex = []
-global.rkyt = []
-global.wlcm = []
-global.gcrevoke = []
-global.autorep = []
-global.ntilink = []
+global.premium = ['201200836711'] //ur premium numbers
+global.ntilinkytvid = [روح نام]
+global.ntilinkytch = [مين عمك]
+global.ntilinkig = [اتفق]
+global.ntilinkfb = [كتابه]
+global.ntilinktg = [صور]
+global.ntilinktt = [أفضل انمي]
+global.ntilinktwt = [كل خرا]
+global.ntilinkall = [مين عمي]
+global.nticall = [تفيك]
+global.ntwame = [تعداد]
+global.nttoxic = [اساله]
+global.ntnsfw = [ملصقات]
+global.ntvirtex = [مقولات]
+global.rkyt = [ايموجي]
+global.wlcm = [تعال نلعب]
+global.gcrevoke = [منور]
+global.autorep = [كيفك]
+global.ntilink = [احبك]
 
 //omther
 global.sessionName = 'session'
